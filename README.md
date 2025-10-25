@@ -1,6 +1,6 @@
 📚Repository of project presentations from my directed reading program experiences. 
 
-### April 2025 - An Introduction to Classical Knot Theory: An Introduction to Classical Knot Theory: How to Tell the Difference Between Twisted Piles of String
+### April 2025 - An Introduction to Classical Knot Theory: How to Tell the Difference Between Twisted Piles of String
 Mentor: Robert Harris, worked with Isabela Souza Cefrin da Silva
 
 ### April 2024 - Anti-Ramsey Theory
